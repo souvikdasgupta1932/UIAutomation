@@ -1,0 +1,19 @@
+1. Verify the application window is displayed. Check "Welcome to the Simple Travel Agency!" is displayed-- [Included in Automation suite]
+2. Verify the following cities are displayed under departure city -- [Included in Automation suite]
+3. Verify the following cities are displayed under destination city. -- [Included in Automation suite]
+4. Verify the correct flights to Portland and Berlin is displayed. --[Included in Automation suite]
+5. Verify the departure time of the flight should be less than the arrival time.
+6. Verify the registration page appears-- [Included in Automation suite]
+7. Verify the total cost is Price + taxes and equals total cost
+8. Verify the correct flight name is displayed on the registration page.
+9. Verify the purchase has been successful- [Included in Automation suite]
+10. Verify the Id is displayed. - [Included in Automation suite]
+12. Verify the amount, Status, Card Number, Expiration Date, Auth Code, Date is displayed -- [Included in Automation suite]
+13. Verify the datatypes and lengths of the fields on the registration page.
+14. Verify the buttons as per requirement
+15. Verify functionality of remember me on the Purchase Page
+
+
+
+
+
